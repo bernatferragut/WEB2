@@ -28,7 +28,6 @@ Now easly deployable on Github Pages, with:
 - [ ] Improve SEO score on [Lighthouse](lighthouse_test.png) 
 
 
-
 ## Screenshot
 
 ![light-theme](https://github.com/P0WEX/Gesko/blob/master/light-theme.jpg)
