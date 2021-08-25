@@ -1,13 +1,13 @@
 ---
 layout: post
-title: DIGITAL ART |  Visuals for Mutek Festival
-description: A course in Generative Art
-summary: A course in Generative Art with P5JS
-tags: ART
+title: GENERATIVE DESIGN | Visuals for Mutek Festival
+description: Visuals for Mutek Festival
+summary: A course in Generative DESIGN with P5JS
+tags: GENERATIVE DESIGN
 minute: 5
 ---
 
-![generative art course](/assets/images/code/LLULL/LLULL-1.png)
+![generative art course](/assets/images/code/CT/LLULL-1.png)
 
 # Project
 Project proposal for the Mutek festival (Montreal, 2019) dedicated to [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull), pioneer of computational thinking

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: DIGITAL ART |  A course in Generative Art
+title: GENERATIVE DESIGN |  A course in Generative Design
 description: A course in Generative Art
 summary: A course in Generative Art with P5JS
-tags: ART
+tags: GENERATIVE DESIGN
 minute: 5
 ---
 
