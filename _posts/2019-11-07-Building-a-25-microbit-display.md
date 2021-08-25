@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEVELOPER |  Building a 25 microbit led display
+title: DEVELOPER | Building a 25 microbit led display
 description: Building a macrobit display
 summary: Building a 25 microbit led display
 tags: DEVELOPER
