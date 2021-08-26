@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIGITAL DESIGN |  304 Out of the Body Experiences 
+title: DIGITAL DESIGN=> 304 Experiences out of the body
 description: Bitcoin Art on the blockchain
 summary: Exhibition of 304-Experiences Out of the Body
 tags: DESIGN

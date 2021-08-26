@@ -1,9 +1,9 @@
 ---
 layout: post
-title: GENERATIVE DESIGN | Visuals for Mutek Festival
-description: Visuals for Mutek Festival
+title: VISUAL DESIGN=> Visuals for the mutek festival
+description: Visuals for mutek festival
 summary: A course in Generative DESIGN with P5JS
-tags: GENERATIVE DESIGN
+tags: VISUAL DESIGN
 minute: 5
 ---
 

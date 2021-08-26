@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BLOCKCHAIN | NFT minting on the Solana network
+title: BLOCKCHAIN NFT=> Minting art on the solana network
 description: Bitcoin Art on the blockchain
 summary: Creating a Non Fungible Token Series
 tags: BLOCKCHAIN

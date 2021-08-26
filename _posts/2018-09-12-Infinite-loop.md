@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GENERATIVE DESIGN | The Big 0
+title: GENERATIVE DESIGN=> The Big 0 code
 description: A course in Generative Art
 summary: Creating algorithmic art with canvas html5
 tags: GENERATIVE DESIGN
