@@ -22,12 +22,10 @@ baseurl: # leave blank if not wishd
 permalink: "http://bernatferragut.com/"
 permalink: pretty 
 
-
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 
 exclude:
   - .jekyll-cache
