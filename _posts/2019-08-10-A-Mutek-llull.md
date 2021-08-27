@@ -7,7 +7,7 @@ tags: VISUAL DESIGN
 minute: 5
 ---
 
-![generative art course](/assets/images/code/CT/LLULL-1.png)
+![generative art course](/assets/images/art/LLULL/LLULL-visuals-1.png)
 
 # Project
 Project proposal for the Mutek festival (Montreal, 2019) dedicated to [Ramon Llull](https://en.wikipedia.org/wiki/Ramon_Llull), pioneer of computational thinking
