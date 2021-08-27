@@ -1,12 +1,13 @@
 site: Bernat
 title: Bernat
 description: >-
-  Bernat Ferragut - Computational Design Projects
+  Bernat Ferragut - Computational Design
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Toronto
 repo: # site repo [optional]
-data-theme: dark # default theme "dark" | "light"
+data-theme: default theme "dark" #| "light"
+google_analytics: G-4X01M1ZC3T
 
 author:
   name: Bernat Ferragut
