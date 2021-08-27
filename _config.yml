@@ -7,7 +7,7 @@ lang: en-US
 timezone: Toronto
 repo: # site repo [optional]
 data-theme: default theme "dark" #| "light"
-google_analytics: G-4X01M1ZC3T
+tracking_id: G-4X01M1ZC3T
 
 author:
   name: Bernat Ferragut
