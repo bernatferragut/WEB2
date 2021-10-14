@@ -17,23 +17,27 @@ An NFT is a record on a cryptocurrency’s blockchain (an immutable ledger that 
 
 > Buying an NFT means purchasing a hacker-resistant, public proof of ownership over a specific digital asset.
 
-## HODL21 NFT series
+## CryptoMonks NFT series
 
-The HODL21 NFT series is a formed by 3 different and distinct prints inspired by Satoshi’s Nakamoto invention: The Bitcoin.
+The CryptoMonks NFT series is a formed by 3 different and distinct prints inspired by Satoshi’s Nakamoto invention: 
+__The Bitcoin__.
 
 > [CryptoMonks on the Solsea platform](https://solsea.io/collection/61685012c3a49cc95e5b0e1a).
 
 The unique prints are inspired by the religious 12th century Europe. The inspiration comes from the father of modern computer science, the seminal Ramon Llull who got illuminated with the idea of building a ‘Machine of Truth’ and 700 years after his vision, passing through Leibniz, Boole and Alan Turing was materialized by Satoshi Nakamoto’s invention of the Bitcoin Protocol to store and share value in a decentralized way.
 
-This first print shows the illumination of Satoshi with the symbols: “B” for Bitcoin and “21” for the 21 million coins will be printed on the blockchain network.
+__This first print shows the illumination of Satoshi with the symbols:__
+“B” for Bitcoin and “21” for the 21 million coins will be printed on the blockchain network.
 
 ![Hodl21-NFT](/assets/images/art/HODL/btc2.jpg)
 
-The second print shows the illumination of Satoshi with the symbols: [“sat”](https://satsymbol.com/) for satoshi and “100 000 000” for the 100Million division every Bitcoin is divided by.
+__The second print shows the illumination of Satoshi with the symbols:__
+[“sat”](https://satsymbol.com/) for satoshi and “100 000 000” for the 100Million division every Bitcoin is divided by.
 
 ![Hodl21-NFT](/assets/images/art/HODL/sat2.jpg)
 
-The third print shows the illumination of Anatoly Yakovenko with the symbols: "sol" the local coin of the solana network and "proof of history" the invention of Mr.Yakovenko making this L1 solution the fastest and most scalable blockchain at this moment in time. The third print is dedicated to the Solana Network which allowed the creation of the NFTs thanks to its fast and low fees: Big Thank You!
+__The third print shows the illumination of Anatoly Yakovenko with the symbols:__
+"sol" the local coin of the solana network and "proof of history" the invention of Mr.Yakovenko making this L1 solution the fastest and most scalable blockchain at this moment in time. The third print is dedicated to the Solana Network which allowed the creation of the NFTs thanks to its fast and low fees: Big Thank You!
 
 Any crypto fan will be delighted for having one of these ‘one of a kind’ pieces of Art inspired by the greatest of our modern Saints: Satoshi.
 
