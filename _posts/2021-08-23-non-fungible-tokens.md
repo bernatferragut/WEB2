@@ -21,6 +21,8 @@ An NFT is a record on a cryptocurrency’s blockchain (an immutable ledger that 
 
 The HODL21 NFT series is a formed by 3 different and distinct prints inspired by Satoshi’s Nakamoto invention: The Bitcoin.
 
+> [CryptoMonks on the Solsea platform](https://solsea.io/collection/61685012c3a49cc95e5b0e1a).
+
 The unique prints are inspired by the religious 12th century Europe. The inspiration comes from the father of modern computer science, the seminal Ramon Llull who got illuminated with the idea of building a ‘Machine of Truth’ and 700 years after his vision, passing through Leibniz, Boole and Alan Turing was materialized by Satoshi Nakamoto’s invention of the Bitcoin Protocol to store and share value in a decentralized way.
 
 This first print shows the illumination of Satoshi with the symbols: “B” for Bitcoin and “21” for the 21 million coins will be printed on the blockchain network.
@@ -53,4 +55,5 @@ Here you can see the results of the first Hodl21 website Market Maker!=> [HODL21
 
 ## Solsea
 
-The new kids on the block are [solsea](https://solsea.io/) and [ftx](https://ftx.com/). Here is the [CryptoMonks on the Solsea platform](https://solsea.io/collection/61685012c3a49cc95e5b0e1a).
+The new kids on the block are [solsea](https://solsea.io/) and [ftx](https://ftx.com/). 
+Here is the [CryptoMonks on the Solsea platform](https://solsea.io/collection/61685012c3a49cc95e5b0e1a).
