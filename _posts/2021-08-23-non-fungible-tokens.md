@@ -17,8 +17,6 @@ An NFT is a record on a cryptocurrency’s blockchain (an immutable ledger that 
 
 > Buying an NFT means purchasing a hacker-resistant, public proof of ownership over a specific digital asset.
 
-
-
 ## HODL21 NFT series
 
 The HODL21 NFT series is a formed by 3 different and distinct prints inspired by Satoshi’s Nakamoto invention: The Bitcoin.
@@ -55,4 +53,4 @@ Here you can see the results of the first Hodl21 website Market Maker!=> [HODL21
 
 ## Solsea
 
-The new kids on the block are [solsea](https://solsea.io/) and [ftx](https://ftx.com/). In the following days experimentation with these new networks will be made. Stay tuned!
+The new kids on the block are [solsea](https://solsea.io/) and [ftx](https://ftx.com/). Here is the [CryptoMonks on the Solsea platform](https://solsea.io/collection/61685012c3a49cc95e5b0e1a).
