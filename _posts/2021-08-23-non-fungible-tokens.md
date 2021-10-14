@@ -25,7 +25,7 @@ The HODL21 NFT series is a formed by 3 different and distinct prints inspired by
 
 The unique prints are inspired by the religious 12th century Europe. The inspiration comes from the father of modern computer science, the seminal Ramon Llull who got illuminated with the idea of building a ‘Machine of Truth’ and 700 years after his vision, passing through Leibniz, Boole and Alan Turing was materialized by Satoshi Nakamoto’s invention of the Bitcoin Protocol to store and share value in a decentralized way.
 
-The first print shows the illumination of Satoshi with the symbols: “B” for Bitcoin and “21” for the 21 million coins will ever be printed on the blockchain network.
+This first print shows the illumination of Satoshi with the symbols: “B” for Bitcoin and “21” for the 21 million coins will be printed on the blockchain network.
 
 ![Hodl21-NFT](/assets/images/art/HODL/btc2.jpg)
 
