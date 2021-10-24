@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COMPUTATION=> Computational thinking origins
+title: COMPUTATION DESIGN=> Computational thinking origins
 description: A course in Generative Art
 summary: A course in Generative Art with P5JS
 tags: COMPUTATION
@@ -21,7 +21,7 @@ The reverberations of Lullian thought on technology, art and culture find their 
 
 Ars Brevis / Ars Infusa After diving into it’s most known piece of art, the Ars Brevis ( the smaller version of the Ars Ultima ), I have found the need to rewrite a brand new site with the foundations of his computational thinking.
 
-Following the steps of the ‘Llullist’ Yannis Dambergs I have reedited the Ars Infusa English translation of the original latin one.
+Following the steps of the [‘Llullist’ Yannis Dambergs](https://lullianarts.narpan.net/cont.htm) I have reedited the Ars Infusa English translation of the original latin one.
 
 Building the Llullian figures with javascript code creates a rather original mix of old and new, showing the incredible momentum of the Llullian ideas. It’s time to rediscover this Computational Thinkning pioneer and study all his theories from a modern and contemporary point of view.
 
