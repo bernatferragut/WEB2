@@ -37,7 +37,7 @@ The method I present is a personal method, based on Lullian concepts. In the Lul
 
 In effect, using the Lullian method is nothing more than creating a small object in which we are going to store 24 words reduced to a list of 6 variables in the form of letters.
 
-We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each of the set of 4 words we will 'imagine' 6 clear, strong and vivid images representing each of them a compressed imagea of 4 words. Here each person will have to use imagination to abstract the addition of 4 different words into that vivid and clear image. By repetitition these images will be stored with time in the long term memory
+We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each set of 4 words we will 'imagine' a clear, strong and vivid image representing each of them into a compressed image adding all 4 words. Here each person will have to use __imagination to abstract the addition of 4 different words__ into that vivid and clear image. By 'repetitition' these images will be stored with time in the long term memory for future use.
 
 > The secret is divide in 6 lists groups of 4 the 24 initial words.
 
