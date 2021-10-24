@@ -11,7 +11,7 @@ minute: 10
 
 # Introduction to the security of cryptocurrencies
 This has been the major problem to be solved by the entire crypto community since its inception. 
-> <span style="color:tomato">How to securely store the private keys that allow access to your cryptocurrencies ? </span>
+> <span style="color:#ff597d">How to securely store the private keys that allow access to your cryptocurrencies ? </span>
 
 Initially there were paper wallets that one could print and store, then physical wallets appeared opening the creation of new models manufacturers to create and store your private keys outside the Internet and store them securely externally.
 
@@ -66,7 +66,7 @@ Once these 6 images containing 4 words each have been created, they will be save
 
 This is the best way to store this type of information. With just a little practice we can be sure that no matter what happens we have our keys.
 
-<span style="color:tomato">__Not your keys => Not your crypto__</span>
+<span style="color:#ff597d">__Not your keys => Not your crypto__</span>
 
 I hope you will find this system useful, just by practicing you will be able to see how it works easily in less than 24 hours.
 
