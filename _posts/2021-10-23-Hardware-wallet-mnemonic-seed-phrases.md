@@ -25,7 +25,7 @@ Among the ancient methods of memorization there is the classical school based on
 In my personal case, I prefer the second school of memorization, the 'scola lulliana' based on the methods of the classical Catalan philosopher, thinker and sage Ramon LLull, precursor of digital information systems and modern Artificial Intelligence already in medieval times.
 
 # Memory systems based on Lullian ideas
-The method I present is a personal method, based on Lullian concepts. In the Lullian case we are going to simplify the morization system to a minimum.
+The method I present is a personal method, based on Lullian concepts. In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf) case we are going to simplify the morization system to a minimum.
 
 * __3 figures - Circle, Triangle, Square__
 
