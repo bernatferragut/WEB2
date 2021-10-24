@@ -13,19 +13,20 @@ minute: 10
 This has been the major problem to be solved by the entire crypto community since its inception. 
 > <span style="color:#ff597d">How to securely store the private keys that allow access to your cryptocurrencies ? </span>
 
-Initially there were paper wallets that one could print and store, then physical wallets appeared opening the creation of new models manufacturers to create and store your private keys outside the Internet and store them securely externally.
+Initially there were paper wallets that one could print and store, then physical wallets appeared opening the creation of new models for manufacturers to create and store your private keys securely outside the Internet.
 
-So far so good but, as always every precaution is not small and it is necessary to add another layer of security, this layer is called the 'mnemonic' layer.
+So far so good but, as always every precaution is not enough and it is necessary to add another layer of security, this layer is called the 'mnemonic' layer.
 
 # The Mnemonic Layer
 This is where the research on ancient methods of memorization comes in, in order to be able to travel safely wherever one needs to go without needing anything more than one's own brain.
 
-Among the ancient methods of memorization there is the classical school based on memory palaces or Roman 'loci', in which images are visualized and placed in known architectural spaces for quick memorization because by reusing spaces already memorized in the past the memory is maximized.
+Among the ancient methods of memorization there is the 'classical school' method based on memory palaces or Roman 'LOCI', in which images are visualized and placed in known architectural spaces for quick memorization because by reusing spaces already memorized in the past the memory is maximized.
 
-In my personal case, I prefer the second school of memorization, the 'scola lulliana' based on the methods of the classical Catalan philosopher, thinker and sage Ramon LLull, precursor of digital information systems and modern Artificial Intelligence already in medieval times.
+In our case, we prefer the second school of memorization, the 'scola lulliana' based on the methods of the classical Catalan philosopher, thinker and sage [Ramon LLull](https://fr.wikipedia.org/wiki/Raymond_Lulle), precursor of digital information systems and modern Artificial Intelligence already in medieval times.
 
 # Memory systems based on Lullian ideas
-The method I present is a personal method, based on Lullian concepts. In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf) case we are going to simplify the morization system to a minimum.
+The method we present is a personalized method, based on Lullian concepts. 
+In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf) case we are going to simplify the morization system to a minimum of elements.
 
 * __3 figures - Circle, Triangle, Square__
 
@@ -35,9 +36,9 @@ The method I present is a personal method, based on Lullian concepts. In the [Lu
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/A.png)
 
-In effect, using the Lullian method is nothing more than creating a small object in which we are going to store 24 words reduced to a list of 6 variables in the form of letters.
+In effect, using the 'Lullian method' is nothing more than creating a small object in which we are going to store 24 words which will be reduced to a list of 6 variables in the form of simple letters.
 
-We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each set of 4 words we will 'imagine' a clear, strong and vivid image representing each of them into a compressed image adding all 4 words. Here each person will have to use __imagination to abstract the addition of 4 different words__ into that vivid and clear image. By 'repetitition' these images will be stored with time in the long term memory for future use.
+We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each set of 4 words we will 'imagine' a clear, strong and vivid single image representing the 4 words together under one letter. Here each person will have to use __imagination to abstract the addition of 4 different words__ into that vivid and clear image. By __'repetitition'__ these images will be stored with time in the long term memory for future use.
 
 > The secret is divide in 6 lists groups of 4 the 24 initial words.
 
@@ -62,13 +63,15 @@ const My24SeedPhrase = {
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/B.png)
 
-Once these 6 images containing 4 words each have been created, they will be saved in one letter each. To remember now just by thinking of the letter the vivid image will be remembered and automatically the four words will be 'decompressed'. By repeating the same process for the 6 letters we will be able to regenerate the 24 secret words that create our crypto wallet private key.
+Once these 6 images containing 4 words have been created, they will be saved under one letter each one of them.
+
+To recall them just try thinking of the letter and a vivid image will appear automatically representing the four 'decompressed'words. By repeating the same process for the 6 letters we will be able to regenerate the 24 secret words seed phrase that create our crypto wallet private key.
 
 This is the best way to store this type of information. With just a little practice we can be sure that no matter what happens we have our keys.
 
 <span style="color:#ff597d">__Not your keys => Not your crypto__</span>
 
-I hope you will find this system useful, just by practicing you will be able to see how it works easily in less than 24 hours.
+I hope you will find this system useful, __just by practicing you will be able to see how it works easily in less than 24 hours.__
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/C.png)
 
