@@ -78,7 +78,7 @@ I hope you will find this system useful, __just by practicing you will be able t
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/C.png)
 
 
-# More information about 24 Seed Phrases
+# More information about 24 Words Seed Phrases
 
 > * [How to generate / create own custom 24 word mnemonic seed phrases](https://allprivatekeys.com/mnemonic-code-converter)
 
