@@ -36,7 +36,7 @@ In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf)
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/A.png)
 
-<span style="color:tomato"> => In effect, the secret of using the 'Lullian method' equals to memorize 6 listed objects formed by 4 words each, for a total of 24 words.</span>
+<span style="color:#ff597d"> => In effect, the secret of using the 'Lullian method' equals to memorize 6 listed objects formed by 4 words each, for a total of 24 words.</span>
 
 We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each set of 4 words we will 'imagine' a clear, strong and vivid single image representing the 4 words together under one letter. Here each person will have to use __imagination to abstract the addition of 4 different words__ into that vivid and clear image. By __'repetitition'__ these images will be stored with time in the long term memory for future use.
 
