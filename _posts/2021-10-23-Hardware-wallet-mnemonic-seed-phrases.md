@@ -62,7 +62,7 @@ const A =  [
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/B.png)
 
-Once these 6 images -objects- containing 4 words have been created, they will be saved under one letter each one of them.
+Once these 6 images -objects- containing 4 words have been created, they will be saved under a letter each one of them.
 
 To recall them just think of the letter and a vivid image will appear automatically representing the four 'decompressed'words. 
 
