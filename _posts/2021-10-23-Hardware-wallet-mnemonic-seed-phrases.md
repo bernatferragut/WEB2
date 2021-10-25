@@ -26,7 +26,7 @@ In our case, we prefer the second school of memorization, the 'scola lulliana' b
 
 # Memory systems based on Lullian ideas
 The method we present is a personalized method, based on Lullian concepts. 
-In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf) case we are going to simplify the morization system to a minimum of elements.
+In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf) case we are going to simplify the memorization system to a minimum of elements.
 
 * __3 figures - Circle, Triangle, Square__
 
@@ -36,13 +36,11 @@ In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf)
 
 ![Hardware wallet-mnemonic seed phrase](/assets/images/art/SEEDS/A.png)
 
-> In effect, using the 'Lullian method' equals to memorize a list of 6 objects formed by 4 words lists storing in total the 24 words.
+<span style="color:tomato"> ### In effect, the secret of using the 'Lullian method' equals to memorize 6 listed objects formed by 4 words for a total of 24 words.</span>
 
 We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each set of 4 words we will 'imagine' a clear, strong and vivid single image representing the 4 words together under one letter. Here each person will have to use __imagination to abstract the addition of 4 different words__ into that vivid and clear image. By __'repetitition'__ these images will be stored with time in the long term memory for future use.
 
-> The secret is divide in 6 lists groups of 4 the 24 initial words.
-
-<span style="color:tomato"> ### Example of 24 word BIP39 mnemonic:</span>
+## Example of 24 word BIP39 mnemonic:</span>
 > * boss rural month arm-exit elegant eight grain-palace biology pistol control 
 > * outside album slab top-boil absorb tree mean-street giggle head frozen
 
