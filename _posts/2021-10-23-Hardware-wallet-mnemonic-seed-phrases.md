@@ -85,4 +85,3 @@ I hope you will find this system useful, __just by practicing you will be able t
 > * [What is a Recovery Phrase? / Ledger](https://www.ledger.com/academy/crypto/what-is-a-recovery-phrase)
 
 > * [What is a Seed Phrase? / Coinmarketcap](https://coinmarketcap.com/alexandria/glossary/seed)
-
