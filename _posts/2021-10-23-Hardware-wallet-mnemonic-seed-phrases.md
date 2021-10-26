@@ -40,7 +40,7 @@ In the [Lullian](https://pure.uvt.nl/ws/portalfiles/portal/1439970/fulltext.pdf)
 
 We will use only the 'classical menemotechnique' at the time of __compression__. At that moment, for each set of 4 words we will 'imagine' a clear, strong and vivid single image representing the 4 words together under one letter. Here each person will have to use __imagination to abstract the addition of 4 different words__ into that vivid and clear image. By __'repetitition'__ these images will be stored with time in the long term memory for future use.
 
-## Example of 24 word BIP39 mnemonic:</span>
+## Example of 24 word BIP39 mnemonic
 > * boss rural month arm-exit elegant eight grain-palace biology pistol control (12 words)
 > * outside album slab top-boil absorb tree mean-street giggle head frozen (12 words)
 
@@ -70,7 +70,8 @@ To recall them just think of the letter and a vivid image will appear automatica
 
 This is the best way to store this type of information. With just a little practice one can be sure no matter what happens the keys are safe.
 
-> <span style="color:#ff597d">=>__Not your keys => Not your crypto__</span>
+> <span style="color:#ff597d">=>__Not your keys__</span>
+> <span style="color:#ff597d">=> Not your crypto__</span>
 
 I hope you will find this system useful, __just by practicing you will be able to see how it works easily in less than 24 hours.__
 
