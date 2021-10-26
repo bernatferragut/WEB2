@@ -70,8 +70,9 @@ To recall them just think of the letter and a vivid image will appear automatica
 
 This is the best way to store this type of information. With just a little practice one can be sure no matter what happens the keys are safe.
 
-> <span style="color:#ff597d">=>__Not your keys__</span>
-> <span style="color:#ff597d">=> Not your crypto__</span>
+> <span style="color:#ff597d">=>Not your keys</span>
+
+> <span style="color:#ff597d">=>Not your crypto</span>
 
 I hope you will find this system useful, __just by practicing you will be able to see how it works easily in less than 24 hours.__
 
