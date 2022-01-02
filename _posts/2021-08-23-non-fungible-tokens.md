@@ -3,7 +3,6 @@ layout: post
 title: BLOCKCHAIN DESIGN=> Minting NFTs on the solana network
 description: Bitcoin Art on the blockchain
 summary: Creating a Non Fungible Token Series
-tags: BLOCKCHAIN
 minute: 5
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: SECURITY DESIGN=> Crypto wallet mnemonic seed phrases
 description: How to memorize seed phrases 'for ever'
 summary: Mnemonic method beased on classic lullian mnemonic art
-tags: BLOCKCHAIN
 minute: 10
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: GENERATIVE DESIGN=> The algorithmic eye code
 description: A course in Generative Art
 summary: Creating algorithmic art with canvas html5
-tags: GENERATIVE DESIGN
 minute: 25
 ---
 # Generative Design - DIGITAL EYE

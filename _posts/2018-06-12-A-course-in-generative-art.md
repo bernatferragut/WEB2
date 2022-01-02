@@ -3,7 +3,6 @@ layout: post
 title: GENERATIVE DESIGN=> A course in Generative Design
 description: A course in Generative Art
 summary: A course in Generative Art with P5JS
-tags: GENERATIVE DESIGN
 minute: 5
 ---
 

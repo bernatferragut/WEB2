@@ -3,7 +3,6 @@ layout: post
 title: COMPUTATION DESIGN=> Computational thinking origins
 description: A course in Generative Art
 summary: A course in Generative Art with P5JS
-tags: COMPUTATION
 minute: 25
 ---
 
