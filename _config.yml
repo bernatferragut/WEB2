@@ -1,7 +1,7 @@
 site: Bernat
 title: Bernat
 description: >-
-  Bernat Ferragut - Computational Design
+  Bernat Ferragut - Sustainable Design
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Toronto
@@ -10,7 +10,7 @@ data-theme: default theme "dark" #| "light"
 
 author:
   name: Bernat Ferragut
-  bio: Computational Design Projects
+  bio: Sustainable Design Projects
   username: bernat ferragut # general username
   github: bernatferragut # github username
   twitter: bernatferragut # twitter username
