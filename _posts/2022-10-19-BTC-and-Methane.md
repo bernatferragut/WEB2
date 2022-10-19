@@ -38,7 +38,7 @@ that is used to compare emissions from various greenhouse gases on the basis of 
 
 <span style="color:#ff597d">__TECHNICAL PERSPECTIVE__</span>
 
-Once we understand how important of a role plays the methane CH4 in the overall CO2 production we can see how some scientists are starting to focus in the near term on targeting mostly this this gas like we're CFCs in the past.
+Once we understand how important of a role plays the methane CH4 in the overall CO2 production we can see how some scientists are starting to focus in the near term on targeting mostly this this gas like we have CFCs in the past.
 
 # The forgotten CH4 part in the overall CO2 production
 
