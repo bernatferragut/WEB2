@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WEB DEVELOPMENT=> Lzrbit a microbit driven web app
+title: APP DESIGN=> Lzrbit a microbit driven web app
 description: Bitcoin Art on the blockchain
 summary: Drawing-app designed to create web-art with a micro-controller.
 minute: 5
