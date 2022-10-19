@@ -42,8 +42,7 @@ Once we understand how important of a role plays the methane CH4 in the overall 
 
 # The forgotten CH4 part in the overall CO2 production
 
-When any of the 3 ways **CO2** is produced (Coal, Oil, Gas - [Article](https://www.coolerfuture.com/blog/co2e)) 
-some **CH4** or Methane gas is being produced.
+When **Carbon** in any of its forms is burned, (Coal, Oil, Gas - [Article](https://www.coolerfuture.com/blog/co2e) some **CH4** or Methane gas is being produced.
 
 Knowing this, a group of scientists interested in BTC and concerned about environmental issues have recently discovered and disclosed a fascinating and novel opportunity that can transform BTC into a monetary **"CLEAN MACHINE"**:
 
