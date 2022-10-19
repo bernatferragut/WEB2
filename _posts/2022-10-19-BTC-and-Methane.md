@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SUSTAINABLE DESIGN=> BTC could reduce greenhouse gases
+title: SUSTAINABLE DESIGN=> BTC goes Carbon Negative 
 description: How by burning methane BTC can help reduce greenhouse gases
 summary: Sustainable Blockchains
 minute: 15
