@@ -34,7 +34,7 @@ To understand what CO2e is, we first need to go back to basics and really unders
 that is used to compare emissions from various greenhouse gases on the basis of their GWP by **converting amounts of other gases to the equivalent amount of CO2.**
 - To quantify CO2e, you need to **multiply the amount of the greenhouse gases by their GWP**
 
-![BTC-Intro](/assets/images/art/CH4/CH4-scheme.jpeg)
+![BTC-Intro](/assets/images/art/CH4/CH4-scheme2.jpeg)
 
 <span style="color:#ff597d">__TECHNICAL PERSPECTIVE__</span>
 
