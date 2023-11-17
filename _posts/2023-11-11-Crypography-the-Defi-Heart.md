@@ -8,7 +8,7 @@ minute: 15
 
 ![BTC-Intro](/assets/images/art/CH4/DEFI.png)
 
-# Decentralized Finance and Elliptic Cryptography:  The Heart of the Crypto Movement
+# DEFI & Elliptic Cryptography:  Crypto Movement's Heart
 
 Since my foray into the world of Decentralized Finance (DeFi) in 2016, I've witnessed the remarkable evolution of the crypto space. Today, as I bid farewell to my crypto-centric musings, I want to delve into the beating heart of this movement – cryptography, particularly the groundbreaking innovation of Elliptic Cryptography.
 At the core of the entire decentralized financial system lies a security marvel: the Private Key/Public Key pair. This ingenious concept underpins the security of transactions, ensuring the integrity and confidentiality of our digital assets. Let's take a quick journey from the early days of Bitcoin (BTC) to the current realms of Ethereum (ETH) and Solana.
