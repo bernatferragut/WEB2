@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CRYPTOGRAPHY DESIGN=> The DEFI Heart
+title: CRYPTOGRAPHY DESIGN=> DEFI's Movement Heart
 description: How by burning methane BTC can help reduce greenhouse gases
 summary: Sustainable Blockchains
 minute: 15
