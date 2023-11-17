@@ -27,15 +27,17 @@ Elliptic Cryptography operates on the mathematical properties of elliptic curves
 
 Fast forward to the present, and Solana has taken center stage with its emphasis on speed and scalability. Behind the scenes, Elliptic Cryptography continues to play a pivotal role in securing transactions at lightning speed. Solana's ability to process thousands of transactions per second is, in part, a testament to the efficiency of Elliptic Cryptography.
 
-![Elliptic Cryptography](/assets/images/art/CH4/Curve.png)
-
 <span style="color:#ff597d">__Elliptic Cryptography: The Quiet Guardian__</span>
+
+![Elliptic Cryptography](/assets/images/art/CH4/PKP.png)
 
 Elliptic Cryptography operates in the background, a quiet yet formidable guardian of our digital assets. Its ability to provide a high level of security with relatively smaller key sizes makes it an ideal choice for the resource-conscious blockchain networks that power DeFi.
 
 <span style="color:#ff597d">__The Heartbeat of DeFi Wallets__</span>
 
 Every DeFi enthusiast interacts with wallets on a daily basis, blissfully unaware of the cryptographic symphony taking place under the surface. From generating wallet addresses to signing transactions, Elliptic Cryptography ensures a seamless and secure user experience.
+
+![Elliptic Cryptography](/assets/images/art/CH4/Curve.png)
 
 <span style="color:#ff597d">__Conclusion: A Love Letter to Crypto__</span>
 
