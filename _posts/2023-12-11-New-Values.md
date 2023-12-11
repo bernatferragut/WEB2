@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CRYPTOGRAPHY DESIGN=> DEFI's Movement Heart
+title: VALUES DESIGN=> From DeFI Value to DeFI Values
 description: When Decentralized Finance (DeFi) transcends into the realm of shared values.
 summary: Defi & Ethical Blockchain
 minute: 15
