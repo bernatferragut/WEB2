@@ -6,11 +6,9 @@ summary: Defi & Ethical Blockchain
 minute: 15
 ---
 
-![BTC-Intro](/assets/images/art/CH4/DEFI.png)
+![DeFI](/assets/images/art/values/Main.png)
 
 # Decentralized Finance (DeFi): A Philosophical Odyssey
-
-![DeFI](/assets/images/art/values/Main.png)
 
 <span style="color:#ff597d">__In the Grand Tapestry of Human Evolution__</span>
 
