@@ -17,9 +17,9 @@ author:
   email: bernatferragut@protonmail.com # email adress
 
 # URL settings
-url: "http://bernatferragut.com/" #
+url: "" #
 baseurl: # leave blank if not wishd
-permalink: "http://bernatferragut.com/"
+permalink: ""
 permalink: pretty 
 
 markdown: kramdown
